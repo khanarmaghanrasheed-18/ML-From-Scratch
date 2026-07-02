@@ -2,7 +2,13 @@
 
 Implementing Machine Learning algorithms from scratch using **Python** and **NumPy** without relying on `scikit-learn` for the core algorithms.
 
-The goal of this repository is to develop a deep understanding of the mathematics behind Machine Learning by implementing every algorithm manually.
+---
+
+## 📌 Purpose
+
+This repository is part of my journey to become a Machine Learning Engineer.
+
+Rather than treating Machine Learning as a black box, I aim to understand every algorithm from first principles by implementing it from scratch.
 
 ---
 
@@ -64,12 +70,6 @@ ML-From-Scratch/
 
 ---
 
-## 📌 Purpose
 
-This repository is part of my journey to become a Machine Learning Engineer.
-
-Rather than treating Machine Learning as a black box, I aim to understand every algorithm from first principles by implementing it from scratch.
-
----
 
 ⭐ More algorithms will be added as I continue learning.

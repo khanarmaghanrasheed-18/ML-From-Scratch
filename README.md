@@ -23,7 +23,7 @@ Each implementation focuses on understanding the underlying mathematics, optimiz
 | K-Nearest Neighbors (KNN) | Iris Dataset | **93.3% Accuracy** | **NumPy (From Scratch)** | Euclidean Distance, Majority Voting, Weighted KNN |
 | Decision Tree (CART) | Wine Dataset | **90.7% Accuracy** | **NumPy (From Scratch)** | Gini Impurity, Recursive Tree Construction, Threshold Selection |
 | Random Forest | Wine Dataset | **97.75% Accuracy** | **NumPy (From Scratch)** | Bootstrap Aggregation (Bagging), Random Feature Selection, Majority Voting |
-| Support Vector Machine (SVM) | Breast Cancer Dataset | **97% Accuracy** | **NumPy (From Scratch)** | Hinge Loss, SGD, Soft Margin, Support Vectors, Maximum Margin Classification |
+| Support Vector Machine (SVM) | Breast Cancer Dataset | **95% Accuracy** | **NumPy (From Scratch)** | Hinge Loss, SGD, Soft Margin, Support Vectors, Maximum Margin Classification |
 
 ---
 
